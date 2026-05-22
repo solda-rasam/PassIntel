@@ -46,5 +46,3 @@ Get PassIntel up and running on your local machine in less than 2 minutes:
    Open your browser and navigate to http://127.0.0.1:5000.
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
